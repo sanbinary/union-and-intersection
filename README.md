@@ -4,7 +4,7 @@ This Python code solves example 1.3 in chapter 1 (RELATION AND FUNCTIONS) in 10t
 ## How it works
 
 Guys, let me explain to you how Python code works.  
-First you run the code it asks you to ```Enter the value of A``` enter a number or a list of numbers with a semicolon. At this time I enter the value of a as ```3``` and press ```enter```.
+First you run the code it asks you to ```Enter the value of A``` enter a number or a list of numbers with a semicolon. At this time I enter the value of ```A``` as ```3``` and press ```enter```.
 <p align="left">
   <img src = "https://github.com/sanbinary/Union-and-Intersection/blob/main/png/Screenshot%201.png?raw=true" alt"Screenshot%201"/>
 </p>
@@ -14,7 +14,7 @@ Then it again asks for the value of ```B```. This time I enter a list of numbers
   <img src = "https://github.com/sanbinary/Union-and-Intersection/blob/main/png/Screenshot%204.png?raw=true" alt"Screenshot%204"/>
 </p>
 
-Again it asks value for c, then I enter the value of ```C``` as ```9```
+Again it asks value for ```C```, then I enter the value of ```C``` as ```9```
 <p align="left">
   <img src = https://github.com/sanbinary/Union-and-Intersection/blob/main/png/Screenshot%205.png?raw=true" alt"Screenshot%205"/>
 </p>
@@ -27,7 +27,7 @@ You have to run the first condition and check whether that condition is true or 
   <img src = "https://github.com/sanbinary/Union-and-Intersection/blob/main/png/Screenshot%206.png?raw=true" alt"Screenshot%206"/>
 </p>
 
-It shows the solution to that condition or you can find the solution of the second condition by pressing ```ii```.
+It shows the solution to that condition and you can find the solution of the second condition by pressing ```ii```.
 <p align="left">
   <img src = "https://github.com/sanbinary/Union-and-Intersection/blob/main/png/Screenshot%208.png?raw=true" alt"Screenshot%208"/>
 </p>
